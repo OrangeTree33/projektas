@@ -37,3 +37,10 @@ ul li a{
 button{
     min-width: 50px;
 }
+
+div{
+    padding: 20px;
+    background: white;
+    max-width: 80px;
+    
+}
